@@ -18,16 +18,16 @@
 
 <!-- ABOUT ME -->
 
-<div id="banner" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="900" height="500"/>
-</div>
-
 ---
 
-👩‍💻 ABOUT ME :
+<h2> 👩‍💻 ABOUT ME : </h2>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
-
+- 💻 I am a Full Stack Developer from Portugal
+- 🌱 I’m currently learning C++, .NET and Reactjs
+- 📫 You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-rita-cruz/)
+- ⚡ Fun fact: I am a huge Harry Potter fan
+- ❤️ You can download my CV <href> HERE </href>
+- 🥇 You can see my skills <href> HERE </href>
 
 
 
