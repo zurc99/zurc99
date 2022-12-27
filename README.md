@@ -54,8 +54,8 @@
   ---
   
   <h2> 🔥 STATS : </h2>
- - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zurc99&theme=dark&background=000000)](https://git.io/streak-stats)
- - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zurc99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=zurc99&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zurc99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   
 
