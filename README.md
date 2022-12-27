@@ -26,8 +26,6 @@
 - 🌱 I’m currently learning C++, .NET and Reactjs
 - 📫 You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-rita-cruz/)
 - ⚡ Fun fact: I am a huge Harry Potter fan
-- ❤️ You can download my CV <href> here </href>
-- 🥇 You can see my skills <href> here </href>
 
 <!-- LANGUAGES -->
 
