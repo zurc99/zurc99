@@ -16,6 +16,17 @@
       <h2> My name is Ana Rita </h2>
 </div>
 
+<!-- ABOUT ME -->
+
+<div id="banner" align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+<h2> ABOUT ME: </h2>
+### 👩‍💻
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 
 
