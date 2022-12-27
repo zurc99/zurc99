@@ -32,7 +32,7 @@
 ---
 
 <h2> 🛠️ TECHNOLOGIES : </h2>
-<div id="technologies">
+<div id="technologies" align="center" align-content="space-evenly">
   <p>
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Java" width="60" height="60"/>&nbsp;
@@ -54,6 +54,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Java" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="Java" width="60" height="60"/>&nbsp;
   </p>
+  </div>
   
   <!-- STATS -->
   
