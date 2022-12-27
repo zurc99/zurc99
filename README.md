@@ -19,13 +19,14 @@
 <!-- ABOUT ME -->
 
 <div id="banner" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="800" height="300"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="900" height="500"/>
 </div>
 
 ---
 
-<h2> 👩‍💻 ABOUT ME: </h2>
-### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal. 🇵🇹
+👩‍💻 ABOUT ME :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 
 
