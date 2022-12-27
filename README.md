@@ -32,7 +32,7 @@
 ---
 
 <h2> 🛠️ TECHNOLOGIES : </h2>
-<div id="technologies" align="center" align-content="space-evenly">
+<div id="technologies" align="center" justify-content="space-around">
   <p>
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Java" width="60" height="60"/>&nbsp;
