@@ -52,8 +52,9 @@
   ---
   
   <h2> 🔥 STATS : </h2>
-(http://github-readme-streak-stats.herokuapp.com?user=zurc99&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  
+  https://github-readme-streak-stats.herokuapp.com/?user=your-github-zurc99
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-zurc99&theme=dark&background=000000)](https://git.io/streak-stats)
   
   
 
